@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/narendramalviya/mern-social-app.git"
   },
-  "homepage": "",
+  "homepage": "https://nk-social-app.herokuapp.com/",
   "main": "./dist/server.generated.js",
   "scripts": {
     "start": "nodemon",
